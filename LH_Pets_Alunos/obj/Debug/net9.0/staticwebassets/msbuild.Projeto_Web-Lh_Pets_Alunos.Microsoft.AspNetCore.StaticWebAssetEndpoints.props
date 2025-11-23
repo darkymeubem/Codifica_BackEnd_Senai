@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Projeto_Web-Lh_Pets_Alunos/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cAANyqCM6KKEkZwlOQyLoN\u002BlBMnG6Ew3FxF7LryGze0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"223"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022cAANyqCM6KKEkZwlOQyLoN\u002BlBMnG6Ew3FxF7LryGze0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Nov 2025 15:43:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Projeto_Web-Lh_Pets_Alunos/index.o6e7wblxqm.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o6e7wblxqm"},{"Name":"integrity","Value":"sha256-cAANyqCM6KKEkZwlOQyLoN\u002BlBMnG6Ew3FxF7LryGze0="},{"Name":"label","Value":"_content/Projeto_Web-Lh_Pets_Alunos/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"223"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022cAANyqCM6KKEkZwlOQyLoN\u002BlBMnG6Ew3FxF7LryGze0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 23 Nov 2025 15:43:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
