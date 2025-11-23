@@ -1,0 +1,14 @@
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\SistemaClientesSenai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\SistemaClientesSenai.AssemblyInfoInputs.cache
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\SistemaClientesSenai.AssemblyInfo.cs
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\SistemaClientesSenai.csproj.CoreCompileInputs.cache
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\bin\Debug\net8.0\SistemaClientesSenai.exe
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\bin\Debug\net8.0\SistemaClientesSenai.deps.json
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\bin\Debug\net8.0\SistemaClientesSenai.runtimeconfig.json
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\bin\Debug\net8.0\SistemaClientesSenai.dll
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\bin\Debug\net8.0\SistemaClientesSenai.pdb
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\SistemaClientesSenai.dll
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\refint\SistemaClientesSenai.dll
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\SistemaClientesSenai.pdb
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\SistemaClientesSenai.genruntimeconfig.cache
+C:\Users\matheus.ribeiro.CREDFAZ\Downloads\SENAIEAD\SistemaClientesSenai\obj\Debug\net8.0\ref\SistemaClientesSenai.dll
