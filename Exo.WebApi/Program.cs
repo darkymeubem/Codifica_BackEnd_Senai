@@ -10,6 +10,7 @@ builder.Services.AddDbContext<ExoContext>(options =>
 
 builder.Services.AddControllers();
 builder.Services.AddTransient<ProjetoRepository>();
+builder.Services.AddTransient<UsuarioRepository>();
 
 var app = builder.Build();
 
